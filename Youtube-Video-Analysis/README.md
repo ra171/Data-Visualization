@@ -6,6 +6,7 @@
 There are different types of videos being uploaded everyday at different instants of time in __YouTube__. It would be really useful if the content of these videos is being analysed. It would be good to understand the different category of videos presently being uploaded in YouTube and look at different instances of time where they have been trending. In addition, it would help the users to understand the right time at which the videos could be uploaded and this ensures that a lot of time and effort is being saved during the uploading of different categories of videos. Moreover, these insights would help the company allocate time and resources during different parts of the year so that they get to know the videos that are being uploaded. Getting meaningful insights from the data and placing more emphasis on growing trends can alter the direction at which companies are operating and this would generate revenue and profits for them.
 
 <img src = "https://github.com/suhasmaddali/Images/blob/main/Youtube%20Video%20Image.jpg" width = 750/>
+<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theverge.com%2F2017%2F8%2F29%2F16216868%2Fnew-youtube-logo-redesign-font-color-app-design&psig=AOvVaw3bBZFNyAHcY1JM18EuU0Oj&ust=1647947155678000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjc6tiH1_YCFQAAAAAdAAAAABAD>
 
 
 ## Steps Considered
